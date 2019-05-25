@@ -1,0 +1,5 @@
+*/node_modules/*
+node_modules/
+./trials/angular2-seed/node_modules
+./scotchLessons/node_modules
+

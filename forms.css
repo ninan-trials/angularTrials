@@ -1,0 +1,37 @@
+h1{
+  text-align: center;
+}
+
+.ng-valid[required] {
+  border: 2px solid green
+}
+
+.ng-invalid {
+  border: 2px solid red;
+}
+
+.form-control{
+  display: inline-block;
+  width: 500px;
+  text-align: justify;
+}
+
+label{
+  padding: 5px;
+}
+
+.form-field{
+  height: 50px;
+  padding: 5px;
+}
+
+.trial-form{
+  width:600px;
+  text-align: center;
+  margin: 0 auto;
+}
+
+input{
+  float:right;
+  height: 12px;
+}
